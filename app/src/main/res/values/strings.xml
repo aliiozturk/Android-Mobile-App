@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FitApp2</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="bar_chart">Bar Chart</string>
+    <string name="pie_chart">Pie Chart</string>
+    <string name="radar_chart">Radar Chart</string>
+
+
+    <string-array name="options_array">
+        <item>Hareketsiz</item>
+        <item>Düşük Aktvite</item>
+        <item>Orta Aktvite</item>
+        <item>Yüksek Aktvite</item>
+        <item>Çok Yüksek Aktvite</item>
+    </string-array>
+
+</resources>
